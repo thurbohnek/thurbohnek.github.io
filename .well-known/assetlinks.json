@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.thurbohnek.twa",
+    "sha256_cert_fingerprints": [
+      "1E:92:BC:BC:E4:A6:B5:20:D2:9A:F7:BF:1D:74:4B:C1:5C:86:81:B8:0C:03:E8:E5:C9:97:2F:18:37:0C:19:62",
+      "1E:92:BC:BC:E4:A6:B5:20:D2:9A:F7:BF:1D:74:4B:C1:5C:86:81:B8:0C:03:E8:E5:C9:97:2F:18:37:0C:19:62"
+    ]
+  }
+}]
